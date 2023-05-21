@@ -1,0 +1,15 @@
+{
+  "name": "wa-bot-bills",
+  "version": "0.0.1",
+  "description": "Whatsup bot to chat with and have your bills stored in a save place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "hectorromerodev",
+  "license": "MIT"
+}
